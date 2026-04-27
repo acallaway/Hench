@@ -1,8 +1,8 @@
 # Hench
 cdsdcs
 
-examine the history and state (see also: git help revisions)
-   bisect     Use binary search to find the commit that introduced a bug
+examine the history and state (see also: git help revisions)<br>
+   bisect     Use binary search to find the commit that introduced a bug\n
    grep       Print lines matching a pattern
    log        Show commit logs
    show       Show various types of objects
